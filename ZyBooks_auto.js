@@ -8,6 +8,7 @@
 // @grant        none
 // @supportURL   https://github.com/AdoreJc/ZyBooks_auto/issues
 // @license      MIT
+// @run-at context-menu
 // @downloadURL
 // @updateURL
 // ==/UserScript==
